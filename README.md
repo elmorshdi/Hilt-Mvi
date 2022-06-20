@@ -1,3 +1,4 @@
+[![Android Build](https://github.com/elmorshdi/Hilt-Mvi/actions/workflows/android.yml/badge.svg)](https://github.com/elmorshdi/Hilt-Mvi/actions/workflows/android.yml)
 # Hilt-Mvi
 ## Tools :       
 * Kotlin
